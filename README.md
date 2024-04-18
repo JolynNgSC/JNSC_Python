@@ -1,6 +1,4 @@
-# Python Pratice 
-## Objective
-The following attempts were made to self-learn python.
+# Python Practice 
 
 ### While and For Loop 
 
