@@ -2,7 +2,7 @@
 
 ### If and Elif Statements
 
-# Activity 2
+# Activity 1
 
 "I am tasked to write a python code that converts time to a 24 hour clock using if/elif."
 
